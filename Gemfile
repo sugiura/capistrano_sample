@@ -45,3 +45,9 @@ group :development do
   gem 'spring'
 end
 
+gem 'capistrano', '3.2.1'
+gem 'capistrano-rails'
+gem 'capistrano-bundler'
+gem 'capistrano-rbenv'
+gem 'capistrano-passenger'
+
