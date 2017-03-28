@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  field1: MyString
+  field2: 1
+  field3: 2017-03-28
+  field4: false
+
+two:
+  field1: MyString
+  field2: 1
+  field3: 2017-03-28
+  field4: false
